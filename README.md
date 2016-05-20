@@ -1,1 +1,3 @@
-[Please use the wiki page of this repo](https://github.com/trustedanalytics/platform-wiki/wiki)
+Please use the wiki pages of TAP releases:
+
+* [Release 0.6](https://github.com/trustedanalytics/platform-wiki-0.6/wiki)
